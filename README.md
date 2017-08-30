@@ -9,4 +9,4 @@ In order to start the training process, *click* the canvas. It then begins to tr
 
 This was a fun project that taught me a lot about the basics of machine learning. Next stop - neural networks!
 
-*- By [@preyneyv](http://www.twitter.com/preyneyv)
+*- By [@preyneyv](http://www.twitter.com/preyneyv)*
