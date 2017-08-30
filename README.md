@@ -1,5 +1,5 @@
 # Simple Perceptron
-This is a repository that contains the code I've written for a simple perceptron, the core element of a neural network. This perceptron is written in [Processing](www.processing.org). It has a small optimization to allow it to train and reach a **0% error rate** very quickly for the set of points.
+This is a repository that contains the code I've written for a simple perceptron, the core element of a neural network. This perceptron is written in [Processing](http://www.processing.org). It has a small optimization to allow it to train and reach a **0% error rate** very quickly for the set of points.
 
 The code is commented. In the `Main.pde` file, there are variables and functions near the top. These can be modified to change, for example, the equation of the dividing line, in the format *m*x+*c*, the number of points and the learning rate. The `scale` variable can also be altered to change the scale of the graph to make it more legible.
 
@@ -9,4 +9,4 @@ In order to start the training process, *click* the canvas. It then begins to tr
 
 This was a fun project that taught me a lot about the basics of machine learning. Next stop - neural networks!
 
-[@preyneyv](www.twitter.com/preyneyv)
+*- By [@preyneyv](http://www.twitter.com/preyneyv)
