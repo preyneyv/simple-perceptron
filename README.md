@@ -8,3 +8,5 @@ The center of the graph is the point `(0,0)`, indicated by the intersection of t
 In order to start the training process, *click* the canvas. It then begins to train the line until it reaches a 0% error rate. After reaching 0%, the program prints out the weights in the console. The optimization used is to skip over the correct guesses. This may seem minor but it reduced the training time from about **60 seconds** to about **5 seconds** for 1000 points. *That's more than a 10x improvement in speed!*
 
 This was a fun project that taught me a lot about the basics of machine learning. Next stop - neural networks!
+
+[@preyneyv](www.twitter.com/preyneyv)
